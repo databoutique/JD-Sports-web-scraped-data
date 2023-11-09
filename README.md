@@ -1,0 +1,14 @@
+# JD Sports web scraped data 
+
+## About the website
+
+Founded in 1981 in Bury, Greater Manchester, England, **[JD Sports](https://www.jdsports.co.uk/)** has grown to become a key player in the United Kingdoms sports retail sector. Originally a joint venture between John Wardle, David Makin, and Peter Cowgill (hence the initials _J_, _D_), it has expanded significantly over the years, currently operating over 2,400 stores across 22 countries. You can find more about JD Sports on their **[Wikipedia page](https://en.wikipedia.org/wiki/JD_Sports)**. As a listed company on the London Stock Exchange, under the ticker symbol **JD**, JD Sports held their initial public offering (IPO) in 1996. Their market capitalisation at IPO is not readily available, although it currently stands at around £7.3 billion as of March 2022. The **[Bloomberg page of JD Sports](https://www.bloomberg.com/profile/company/JD/:LN)** provides more details on their financial performance and trading information.
+
+JD Sports faces strong competition from a number of other sports retailers. One of their main competitors is **[Sports Direct](https://www.sportsdirect.com/)**, a U.K.-based sports-goods retailer that operates approximately 670 stores worldwide. You can read more about Sports Directs business model on their **[Wikipedia page](https://en.wikipedia.org/wiki/Sports_Direct)**, or check out their profile on **[Bloomberg](https://www.bloomberg.com/profile/company/SPD:LN)**. Another major competitor is **[Decathlon](https://www.decathlon.co.uk/)**, a French company that designs, manufactures, and sells sporting goods in more than 1,400 stores in over 40 countries. More information about Decathlon is available on their **[Wikipedia page](https://en.wikipedia.org/wiki/Decathlon_Group)** and **[Bloomberg profile](https://www.bloomberg.com/profile/company/DECA:FP)**.
+
+Web scraped data can provide a wealth of insights for analysing the competitive landscape and devising strategies for businesses like JD Sports. With information such as **prices** and **discounts** on various products, one can perform comparative price analysis, track pricing trends, and assess patterns in discounts. This data can help JD Sports understand the pricing strategies of its competitors and adjust its own pricing accordingly for optimum profits and market positioning. Additionally, it can assist in inventory management by monitoring the popularity and availability of various products, thereby facilitating better stock planning decisions. Web scraped data can also be used to analyse customer reviews and ratings, which can provide insights into customer preferences and the performance of different brands and products.
+
+
+## Link to **dataset**
+
+[JD Sports dataset](https://www.databoutique.com/buy-data-list-subset/JD%20Sports%20web%20scraped%20data/r/rec0hVlP8iAb76ZBx)
